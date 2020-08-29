@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "337416989211",
+    "firebase_url": "https://career-buddy-7321c.firebaseio.com",
+    "project_id": "career-buddy-7321c",
+    "storage_bucket": "career-buddy-7321c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337416989211:android:3e3328d317251c168ae6be",
+        "android_client_info": {
+          "package_name": "com.career.buddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337416989211-rpb1qeuvli9mrgt27c67jv2aktr617mg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1cguPR8n9Cr-khcgoz5CULUM1e5hPRYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337416989211-rpb1qeuvli9mrgt27c67jv2aktr617mg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337416989211:android:8cd3da0b714f9add8ae6be",
+        "android_client_info": {
+          "package_name": "com.example.agm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337416989211-rpb1qeuvli9mrgt27c67jv2aktr617mg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1cguPR8n9Cr-khcgoz5CULUM1e5hPRYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337416989211-rpb1qeuvli9mrgt27c67jv2aktr617mg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
